@@ -1,9 +1,9 @@
 <img src="img/logo.png" width="350">
 
-[![GitHub release](https://img.shields.io/github/release/knqyf263/cob.svg)](https://github.com/knqyf263/cob/releases/latest)
-![](https://github.com/knqyf263/cob/workflows/Go/badge.svg)
-[![Go Report Card](https://goreportcard.com/badge/github.com/knqyf263/cob)](https://goreportcard.com/report/github.com/knqyf263/cob)
-[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/knqyf263/cob/blob/master/LICENSE)
+[![GitHub release](https://img.shields.io/github/release/knqyf263/cob.svg)](https://github.com/pyroscope-benchmarkers/cob/releases/latest)
+![](https://github.com/pyroscope-benchmarkers/cob/workflows/Go/badge.svg)
+[![Go Report Card](https://goreportcard.com/badge/github.com/pyroscope-benchmarkers/cob)](https://goreportcard.com/report/github.com/pyroscope-benchmarkers/cob)
+[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/pyroscope-benchmarkers/cob/blob/master/LICENSE)
 
 
 
@@ -35,7 +35,7 @@
 
 # Continuous Integration (CI)
 
-See [cob-example](https://github.com/knqyf263/cob-example) for details.
+See [cob-example](https://github.com/pyroscope-benchmarkers/cob-example) for details.
 
 ## GitHub Actions
 
@@ -290,7 +290,7 @@ $ cob -bench-args "test -bench . -benchmem -benchtime 10s ./..."
 
 # License
 
-This repository is available under the [MIT](https://github.com/knqyf263/cob/blob/master/LICENSE)
+This repository is available under the [MIT](https://github.com/pyroscope-benchmarkers/cob/blob/master/LICENSE)
 
 # Author
 

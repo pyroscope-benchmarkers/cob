@@ -1,4 +1,4 @@
-module github.com/knqyf263/cob
+module github.com/pyroscope-benchmarkers/cob
 
 go 1.22
 
